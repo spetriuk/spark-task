@@ -1,0 +1,209 @@
+tconst,primaryTitle,numVotes,averageRating,startYear,titleType,genre
+tt0068646,The Godfather,1630607,9.2,1972,movie,Crime
+tt0050083,12 Angry Men,694545,9.0,1957,movie,Crime
+tt0468569,The Dark Knight,2315682,9.0,2008,movie,Crime
+tt0071562,The Godfather: Part II,1136475,9.0,1974,movie,Crime
+tt0110912,Pulp Fiction,1836473,8.9,1994,movie,Crime
+tt0099685,Goodfellas,1027253,8.7,1990,movie,Crime
+tt0317248,City of God,702151,8.6,2002,movie,Crime
+tt0114369,Se7en,1454343,8.6,1995,movie,Crime
+tt0102926,The Silence of the Lambs,1279064,8.6,1991,movie,Crime
+tt0120689,The Green Mile,1155177,8.6,1999,movie,Crime
+tt0109830,Forrest Gump,1820817,8.8,1994,movie,Romance
+tt0118799,Life Is Beautiful,627430,8.6,1997,movie,Romance
+tt0034583,Casablanca,524661,8.5,1942,movie,Romance
+tt0095765,Cinema Paradiso,232326,8.5,1988,movie,Romance
+tt0021749,City Lights,168829,8.5,1931,movie,Romance
+tt0338013,Eternal Sunshine of the Spotless Mind,916049,8.3,2004,movie,Romance
+tt0119217,Good Will Hunting,866609,8.3,1997,movie,Romance
+tt0211915,Amelie,706551,8.3,2001,movie,Romance
+tt0052357,Vertigo,366382,8.3,1958,movie,Romance
+tt0045152,Singin' in the Rain,220217,8.3,1952,movie,Romance
+tt6751668,Parasite,568695,8.6,2019,movie,Thriller
+tt0102926,The Silence of the Lambs,1279064,8.6,1991,movie,Thriller
+tt0114814,The Usual Suspects,995952,8.5,1995,movie,Thriller
+tt0054215,Psycho,607489,8.5,1960,movie,Thriller
+tt0407887,The Departed,1196522,8.5,2006,movie,Thriller
+tt7286456,Joker,954779,8.4,2019,movie,Thriller
+tt0047396,Rear Window,446271,8.4,1954,movie,Thriller
+tt0405094,The Lives of Others,360655,8.4,2006,movie,Thriller
+tt0209144,Memento,1131011,8.4,2000,movie,Thriller
+tt0105236,Reservoir Dogs,923346,8.3,1992,movie,Thriller
+tt0167260,The Lord of the Rings: The Return of the King,1650871,8.9,2003,movie,Adventure
+tt1375666,Inception,2079706,8.8,2010,movie,Adventure
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,1670192,8.8,2001,movie,Adventure
+tt0167261,The Lord of the Rings: The Two Towers,1492927,8.7,2002,movie,Adventure
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,1164843,8.7,1980,movie,Adventure
+tt0245429,Spirited Away,656701,8.6,2001,movie,Adventure
+tt0047478,Seven Samurai,317353,8.6,1954,movie,Adventure
+tt0816692,Interstellar,1524445,8.6,2014,movie,Adventure
+tt0076759,Star Wars: Episode IV - A New Hope,1236994,8.6,1977,movie,Adventure
+tt0110357,The Lion King,947544,8.5,1994,movie,Adventure
+tt0111161,The Shawshank Redemption,2356275,9.3,1994,movie,Drama
+tt0068646,The Godfather,1630607,9.2,1972,movie,Drama
+tt0050083,12 Angry Men,694545,9.0,1957,movie,Drama
+tt0468569,The Dark Knight,2315682,9.0,2008,movie,Drama
+tt0071562,The Godfather: Part II,1136475,9.0,1974,movie,Drama
+tt0110912,Pulp Fiction,1836473,8.9,1994,movie,Drama
+tt0167260,The Lord of the Rings: The Return of the King,1650871,8.9,2003,movie,Drama
+tt0108052,Schindler's List,1219581,8.9,1993,movie,Drama
+tt0137523,Fight Club,1865119,8.8,1999,movie,Drama
+tt0109830,Forrest Gump,1820817,8.8,1994,movie,Drama
+tt5813916,The Mountain II,105338,8.8,2016,movie,War
+tt0120815,Saving Private Ryan,1242566,8.6,1998,movie,War
+tt0034583,Casablanca,524661,8.5,1942,movie,War
+tt0095327,Grave of the Fireflies,237312,8.5,1988,movie,War
+tt0078788,Apocalypse Now,609513,8.4,1979,movie,War
+tt0032553,The Great Dictator,204230,8.4,1940,movie,War
+tt0050825,Paths of Glory,179322,8.4,1957,movie,War
+tt0093058,Full Metal Jacket,678385,8.3,1987,movie,War
+tt8579674,1917,437055,8.3,2019,movie,War
+tt1255953,Incendies,151560,8.3,2010,movie,War
+tt0310793,Bowling for Columbine,139914,7.9,2002,movie,Documentary
+tt0361596,Fahrenheit 9/11,126464,7.5,2004,movie,Documentary
+tt0390521,Super Size Me,101340,7.2,2004,movie,Documentary
+tt0245429,Spirited Away,656701,8.6,2001,movie,Family
+tt0038650,It's a Wonderful Life,407861,8.6,1946,movie,Family
+tt0027977,Modern Times,219266,8.5,1936,movie,Family
+tt2380307,Coco,390167,8.4,2017,movie,Family
+tt0986264,Like Stars on Earth,170334,8.4,2007,movie,Family
+tt0910970,WALL-E,1005050,8.4,2008,movie,Family
+tt0012349,The Kid,114245,8.3,1921,movie,Family
+tt0347149,Howl's Moving Castle,336990,8.2,2004,movie,Family
+tt0096283,My Neighbor Totoro,293834,8.2,1988,movie,Family
+tt1028532,Hachi: A Dog's Tale,255164,8.1,2009,movie,Family
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,1164843,8.7,1980,movie,Fantasy
+tt0038650,It's a Wonderful Life,407861,8.6,1946,movie,Fantasy
+tt0076759,Star Wars: Episode IV - A New Hope,1236994,8.6,1977,movie,Fantasy
+tt0120689,The Green Mile,1155177,8.6,1999,movie,Fantasy
+tt5311514,Your Name.,198640,8.4,2016,movie,Fantasy
+tt0086190,Star Wars: Episode VI - Return of the Jedi,954850,8.3,1983,movie,Fantasy
+tt0457430,Pan's Labyrinth,621164,8.2,2006,movie,Fantasy
+tt0071853,Monty Python and the Holy Grail,502689,8.2,1975,movie,Fantasy
+tt0096283,My Neighbor Totoro,293834,8.2,1988,movie,Fantasy
+tt0050976,The Seventh Seal,166183,8.2,1957,movie,Fantasy
+tt0108052,Schindler's List,1219581,8.9,1993,movie,History
+tt0112573,Braveheart,963117,8.3,1995,movie,History
+tt0086879,Amadeus,370696,8.3,1984,movie,History
+tt0363163,Downfall,332707,8.2,2004,movie,History
+tt0057115,The Great Escape,225742,8.2,1963,movie,History
+tt0050976,The Seventh Seal,166183,8.2,1957,movie,History
+tt2024544,12 Years a Slave,644065,8.1,2013,movie,History
+tt2119532,Hacksaw Ridge,439799,8.1,2016,movie,History
+tt0395169,Hotel Rwanda,335555,8.1,2004,movie,History
+tt0031381,Gone with the Wind,291370,8.1,1939,movie,History
+tt0114369,Se7en,1454343,8.6,1995,movie,Mystery
+tt0114814,The Usual Suspects,995952,8.5,1995,movie,Mystery
+tt0054215,Psycho,607489,8.5,1960,movie,Mystery
+tt0482571,The Prestige,1197233,8.5,2006,movie,Mystery
+tt0078788,Apocalypse Now,609513,8.4,1979,movie,Mystery
+tt0364569,Oldboy,518543,8.4,2003,movie,Mystery
+tt0047396,Rear Window,446271,8.4,1954,movie,Mystery
+tt0405094,The Lives of Others,360655,8.4,2006,movie,Mystery
+tt0209144,Memento,1131011,8.4,2000,movie,Mystery
+tt0051201,Witness for the Prosecution,109730,8.4,1957,movie,Mystery
+tt0045152,Singin' in the Rain,220217,8.3,1952,movie,Musical
+tt2338151,PK,163978,8.1,2014,movie,Musical
+tt0169102,Lagaan: Once Upon a Time in India,105464,8.1,2001,movie,Musical
+tt0168629,Dancer in the Dark,102711,8.0,2000,movie,Musical
+tt0067992,Willy Wonka & the Chocolate Factory,179510,7.8,1971,movie,Musical
+tt1707386,Les Misérables,310109,7.6,2012,movie,Musical
+tt0203009,Moulin Rouge!,267552,7.6,2001,movie,Musical
+tt1485796,The Greatest Showman,241574,7.6,2017,movie,Musical
+tt0085959,Monty Python's Meaning Of Life,114331,7.5,1983,movie,Musical
+tt0073629,The Rocky Horror Picture Show,133590,7.4,1975,movie,Musical
+tt0245429,Spirited Away,656701,8.6,2001,movie,Animation
+tt0110357,The Lion King,947544,8.5,1994,movie,Animation
+tt0095327,Grave of the Fireflies,237312,8.5,1988,movie,Animation
+tt2380307,Coco,390167,8.4,2017,movie,Animation
+tt4633694,Spider-Man: Into the Spider-Verse,381270,8.4,2018,movie,Animation
+tt0119698,Princess Mononoke,345844,8.4,1997,movie,Animation
+tt5311514,Your Name.,198640,8.4,2016,movie,Animation
+tt0910970,WALL-E,1005050,8.4,2008,movie,Animation
+tt0114709,Toy Story,892197,8.3,1995,movie,Animation
+tt1049413,Up,940552,8.2,2009,movie,Animation
+tt0253474,The Pianist,734708,8.5,2002,movie,Music
+tt2582802,Whiplash,723288,8.5,2014,movie,Music
+tt0053291,Some Like It Hot,245178,8.2,1959,movie,Music
+tt3783958,La La Land,509987,8.0,2016,movie,Music
+tt1727824,Bohemian Rhapsody,455571,8.0,2018,movie,Music
+tt0088258,This Is Spinal Tap,129293,7.9,1984,movie,Music
+tt0358273,Walk the Line,235095,7.8,2005,movie,Music
+tt0907657,Once,110990,7.8,2007,movie,Music
+tt0350258,Ray,138950,7.7,2004,movie,Music
+tt0249462,Billy Elliot,127239,7.7,2000,movie,Music
+tt0043014,Sunset Boulevard,202707,8.4,1950,movie,Film-Noir
+tt0036775,Double Indemnity,144359,8.3,1944,movie,Film-Noir
+tt0041959,The Third Man,159406,8.1,1949,movie,Film-Noir
+tt0033870,The Maltese Falcon,149413,8.0,1941,movie,Film-Noir
+tt0044079,Strangers on a Train,123738,7.9,1951,movie,Film-Noir
+tt0054215,Psycho,607489,8.5,1960,movie,Horror
+tt0081505,The Shining,903691,8.4,1980,movie,Horror
+tt0078748,Alien,791824,8.4,1979,movie,Horror
+tt0084787,The Thing,373155,8.1,1982,movie,Horror
+tt0070047,The Exorcist,363393,8.0,1973,movie,Horror
+tt0063522,Rosemary's Baby,195006,8.0,1968,movie,Horror
+tt0365748,Shaun of the Dead,514099,7.9,2004,movie,Horror
+tt0063350,Night of the Living Dead,117012,7.9,1968,movie,Horror
+tt0077402,Dawn of the Dead,111790,7.9,1978,movie,Horror
+tt5052448,Get Out,496989,7.7,2017,movie,Horror
+tt0060196,"The Good, the Bad and the Ugly",691812,8.8,1966,movie,Western
+tt0064116,Once Upon a Time in the West,304251,8.5,1968,movie,Western
+tt1853728,Django Unchained,1366477,8.4,2012,movie,Western
+tt0105695,Unforgiven,377647,8.2,1992,movie,Western
+tt0059578,For a Few Dollars More,233955,8.2,1965,movie,Western
+tt0040897,The Treasure of the Sierra Madre,114850,8.2,1948,movie,Western
+tt0099348,Dances with Wolves,241413,8.0,1990,movie,Western
+tt0058461,A Fistful of Dollars,199097,8.0,1964,movie,Western
+tt0071230,Blazing Saddles,126584,7.7,1974,movie,Western
+tt1403865,True Grit,313245,7.6,2010,movie,Western
+tt0108052,Schindler's List,1219581,8.9,1993,movie,Biography
+tt0099685,Goodfellas,1027253,8.7,1990,movie,Biography
+tt1675434,The Intouchables,765826,8.5,2011,movie,Biography
+tt0253474,The Pianist,734708,8.5,2002,movie,Biography
+tt5074352,Dangal,158059,8.4,2016,movie,Biography
+tt0112573,Braveheart,963117,8.3,1995,movie,Biography
+tt0086879,Amadeus,370696,8.3,1984,movie,Biography
+tt0056172,Lawrence of Arabia,269395,8.3,1962,movie,Biography
+tt0268978,A Beautiful Mind,853631,8.2,2001,movie,Biography
+tt6966692,Green Book,385732,8.2,2018,movie,Biography
+tt0118799,Life Is Beautiful,627430,8.6,1997,movie,Comedy
+tt6751668,Parasite,568695,8.6,2019,movie,Comedy
+tt1675434,The Intouchables,765826,8.5,2011,movie,Comedy
+tt0027977,Modern Times,219266,8.5,1936,movie,Comedy
+tt0021749,City Lights,168829,8.5,1931,movie,Comedy
+tt0088763,Back to the Future,1064251,8.5,1985,movie,Comedy
+tt0057012,Dr. Strangelove Or: How I Learned To Stop Worrying And Love The Bomb,452600,8.4,1964,movie,Comedy
+tt1187043,3 Idiots,346675,8.4,2009,movie,Comedy
+tt0032553,The Great Dictator,204230,8.4,1940,movie,Comedy
+tt0114709,Toy Story,892197,8.3,1995,movie,Comedy
+tt0468569,The Dark Knight,2315682,9.0,2008,movie,Action
+tt0167260,The Lord of the Rings: The Return of the King,1650871,8.9,2003,movie,Action
+tt1375666,Inception,2079706,8.8,2010,movie,Action
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,1670192,8.8,2001,movie,Action
+tt5813916,The Mountain II,105338,8.8,2016,movie,Action
+tt0133093,The Matrix,1685797,8.7,1999,movie,Action
+tt0167261,The Lord of the Rings: The Two Towers,1492927,8.7,2002,movie,Action
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,1164843,8.7,1980,movie,Action
+tt0047478,Seven Samurai,317353,8.6,1954,movie,Action
+tt0076759,Star Wars: Episode IV - A New Hope,1236994,8.6,1977,movie,Action
+tt1291584,Warrior,437865,8.2,2011,movie,Sport
+tt0081398,Raging Bull,323462,8.2,1980,movie,Sport
+tt0118715,The Big Lebowski,735907,8.1,1998,movie,Sport
+tt0405159,Million Dollar Baby,638796,8.1,2004,movie,Sport
+tt0075148,Rocky,521115,8.1,1976,movie,Sport
+tt0169102,Lagaan: Once Upon a Time in India,105464,8.1,2001,movie,Sport
+tt1125849,The Wrestler,290154,7.9,2008,movie,Sport
+tt0964517,The Fighter,342192,7.8,2010,movie,Sport
+tt0210945,Remember the Titans,199009,7.8,2000,movie,Sport
+tt1210166,Moneyball,372208,7.6,2011,movie,Sport
+tt1375666,Inception,2079706,8.8,2010,movie,Sci-Fi
+tt0133093,The Matrix,1685797,8.7,1999,movie,Sci-Fi
+tt0816692,Interstellar,1524445,8.6,2014,movie,Sci-Fi
+tt0103064,Terminator 2: Judgment Day,999629,8.5,1991,movie,Sci-Fi
+tt0482571,The Prestige,1197233,8.5,2006,movie,Sci-Fi
+tt0088763,Back to the Future,1064251,8.5,1985,movie,Sci-Fi
+tt4154756,Avengers: Infinity War,844115,8.4,2018,movie,Sci-Fi
+tt0078748,Alien,791824,8.4,1979,movie,Sci-Fi
+tt0338013,Eternal Sunshine of the Spotless Mind,916049,8.3,2004,movie,Sci-Fi
+tt0066921,A Clockwork Orange,761303,8.3,1971,movie,Sci-Fi
